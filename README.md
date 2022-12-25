@@ -14,19 +14,13 @@ How to use it?
 3. you can simply run the command `python3 Argonbsp.py` or you can add some arguments like:
 
    1. `--url` choose where to download ARGO-Floats file, you can choose another mirror sites
-
    2. `--file_path` choose where to put the download file (about 200MB, the download process may take a while)
-
-   3. `--force` the program will check if the file is the local file is the newest, you can also force to refresh or download it, it may looks like this:
-
-      ![needs update](imgs/needs%20update.png)
-
-      ![no need for update](imgs/no%20need%20for%20update.png)
+   3. `--force` the program will check if the file is the local file is the newest, you can also force to refresh or download it
 
 4. Finally, there will be two html files and an image generated in the root:
 
-   ![col](imgs/col.png)
+   <img src="imgs/col.png" alt="col" style="zoom:35%;" />
 
-   ![south China sea update](imgs/south%20China%20sea%20update.gif)
+![south China sea update](imgs/south%20China%20sea%20update.gif)
 
 ![world update](imgs/world%20update.gif)
