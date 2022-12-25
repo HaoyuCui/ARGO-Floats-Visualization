@@ -19,8 +19,4 @@ How to use it?
 
 4. Finally, there will be two html files and an image generated in the root:
 
-   <img src="imgs/col.png" alt="col" style="zoom:35%;" />
-
-![south China sea update](imgs/south%20China%20sea%20update.gif)
-
-![world update](imgs/world%20update.gif)
+   <img src="imgs/col.jpg" alt="col"/>
