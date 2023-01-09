@@ -5,7 +5,7 @@ The file can be download directly in this [link](https://data-argo.ifremer.fr/ar
 
 ![eg](imgs/eg.png)
 
-How to use it?
+## How to use it?
 
 1. clone this repo using `git clone https://github.com/HaoyuCui/ARGO-Floats-Visualization.git`
 2. go to this repo use the command `cd ARGO-Floats-Visualization`, and switch to your virtual environment, run `pip install -r requirements.txt` to download and install the dependency modules
