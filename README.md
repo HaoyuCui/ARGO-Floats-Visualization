@@ -1,6 +1,8 @@
 # ARGO-Floats-Visualization
 A Python project that can automatically check ARGO floats update situations. Outputs a sites-update-histogram and two folium maps which show daily update floats' locations. 
 
+This repo may not be able to download the exact ARGO floats file as it is too large. The program will convert the index file into pandas Dataframe and csv format, you can modify them later to do more jobs.
+
 The file can be download directly in this [link](https://data-argo.ifremer.fr/ar_index_global_prof.txt) (or you can download it using the Python script in this repo). After running the program, the data format (in pandas.Dataframe) looks like this:
 
 ![eg](imgs/eg.png)
